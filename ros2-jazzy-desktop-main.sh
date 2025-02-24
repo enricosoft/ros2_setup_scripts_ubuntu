@@ -5,9 +5,8 @@ set -eu
 # https://github.com/Tiryoh/ros2_setup_scripts_ubuntu
 # Licensed under the Apache License, Version 2.0
 #
-# REF: https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debians.html
+# REF: https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html
 # by Open Robotics, licensed under CC-BY-4.0
-# source: https://github.com/ros2/ros2_documentation
 
 CHOOSE_ROS_DISTRO=jazzy
 INSTALL_PACKAGE=desktop

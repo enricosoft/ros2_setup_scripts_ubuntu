@@ -7,7 +7,6 @@ set -eu
 #
 # REF: https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debians.html
 # by Open Robotics, licensed under CC-BY-4.0
-# source: https://github.com/ros2/ros2_documentation
 
 CHOOSE_ROS_DISTRO=jazzy
 INSTALL_PACKAGE=ros-base
