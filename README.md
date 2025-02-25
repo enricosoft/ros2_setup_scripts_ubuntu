@@ -12,10 +12,10 @@ After downloading this repository, just run the following command.
 ./run.sh
 ```
 
-If you modify any .sh script on windows, before run it on WSL run the command:
+```If you modify any .sh script on windows, before run it on WSL run the command:
 dos2unix run.sh
 and
-dos2unix ros2-jazzy-desktop-main.sh
+dos2unix ros2-jazzy-desktop-main.sh```
 
 ## Usage
 
