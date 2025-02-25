@@ -12,10 +12,12 @@ After downloading this repository, just run the following command.
 ./run.sh
 ```
 
-```If you modify any .sh script on windows, before run it on WSL run the command:
+If you modify any .sh script on windows, before run it on WSL run the command:
+```
 dos2unix run.sh
 and
-dos2unix ros2-jazzy-desktop-main.sh```
+dos2unix ros2-jazzy-desktop-main.sh
+```
 
 ## Usage
 
@@ -36,7 +38,7 @@ Reference: [REP-0003](https://ros.org/reps/rep-0003.html), [REP-2000](https://ro
 
 | Ubuntu | ROS 1 | ROS 2 |
 | ------ | ----- | ----- |
-| Ubuntu 24.04<br>EOL: June 2029[^5] | - | Jazzy<br>EOL: May 2029 |
+| **Ubuntu 24.04**<br>EOL: June 2029[^5] | - | Jazzy<br>EOL: May 2029 |
 
 * Note: Here, EOL for Ubuntu refers to the end of normal support, which is not Ubuntu Pro.
 
