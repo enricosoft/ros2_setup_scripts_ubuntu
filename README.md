@@ -1,8 +1,19 @@
 # ros2_setup_scripts_ubuntu
 
-unofficial ROS2 install script for Ubuntu
+Unofficial ROS2 Jazzy+ install script for Ubuntu
 
 Access https://docs.ros.org/en/jazzy/Installation.html to get the updated information.
+
+If you modify any .sh script on windows OS, before run it on WSL run the command:
+```
+dos2unix run.sh
+and
+dos2unix ros2-jazzy-desktop-main.sh
+```
+
+
+To install the complete ROS2 Environment on windows 11 using WSL, follow the procedure described in **WIN11_WSL.md**
+
 
 ## QuickStart
 
@@ -10,13 +21,6 @@ After downloading this repository, just run the following command.
 
 ```sh
 ./run.sh
-```
-
-If you modify any .sh script on windows, before run it on WSL run the command:
-```
-dos2unix run.sh
-and
-dos2unix ros2-jazzy-desktop-main.sh
 ```
 
 ## Usage
