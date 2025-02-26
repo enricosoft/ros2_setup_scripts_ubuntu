@@ -12,7 +12,7 @@ dos2unix ros2-jazzy-desktop-main.sh
 ```
 
 
-To install the complete ROS2 Environment on windows 11 using WSL, follow the procedure described in **WIN11_WSL.md**
+To install the complete ROS2 Environment on windows 11 using WSL, follow the procedure described in **[`WIN11_WSL.md`](WIN11_WSL.md)**
 
 
 ## QuickStart
