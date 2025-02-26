@@ -33,7 +33,7 @@ cd /home/{youUsername}
 ```
 git clone https://github.com/enricosoft/ros2_setup_scripts_ubuntu
 sudo ./run.sh
-source /opt/ros/jazzy/setup.bash
+echo "source /opt/ros/jazzy/setup.bash" >> ~/.bashrc && source ~/.bashrc
 ```
 # Test it
 ```
