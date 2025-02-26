@@ -2,6 +2,7 @@
 [NOTE: you need windows 11 because it has better support to wslG, the wsl gui]
 
 ```
+wsl.exe --update
 wsl --install -d Ubuntu-24.04
 ```
 
@@ -13,6 +14,7 @@ wsl --list --verbose
 wsl --set-version Ubuntu-24.04 2
 ```
 
+# Then set this distro as default:
 ```
 wsl --set-default Ubuntu-24.04
 ```
