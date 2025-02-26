@@ -1,5 +1,4 @@
 ## INSTALL ROS2 \ GAZEBO ON WINDOWS 11 USING WSL
-[NOTE: you need windows 11 because it has better support to wslG, the wsl gui]
 
 ```
 wsl.exe --update
